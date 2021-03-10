@@ -10,4 +10,8 @@ current_user_name = load_user_name(user_id)
 current_user_address = load_user_address(user_id)
 current_user_email = load_user_email(user_id)
 
+<<<<<<< HEAD
 current_user = load_user(user_id)
+=======
+current_user = load_user(user_id)
+>>>>>>> cf0e05ef8d767b69d389a0bb649c941e1c509a53
