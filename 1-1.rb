@@ -11,6 +11,3 @@ current_user_address = load_user_address(user_id)
 current_user_email = load_user_email(user_id)
 
 current_user = load_user(user_id)
-
-class User
-end
